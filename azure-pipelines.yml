@@ -12,10 +12,10 @@ variables:
   azureSubscription: '1d6cbef6-73df-43ea-8680-e5f7f702bdff'
 
   # Web app name
-  webAppName: 'weu-d-asl-magnoliaa'
+  webAppName: 'weu-d-asl-magnoliaadevops'
 
   # Environment name
-  environmentName: 'weu-d-asl-magnoliaa'
+  environmentName: 'weu-d-asl-magnoliaadevops'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
